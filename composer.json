@@ -1,0 +1,14 @@
+{
+    "name": "andrewauxilio/pro-php-tut",
+    "authors": [
+        {
+            "name": "Andrew Auxilio",
+            "email": "andrew.auxilio@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "~7.4.0",
+        "tracy/tracy": "^2.7",
+        "symfony/http-foundation": "^5.1"
+    }
+}
